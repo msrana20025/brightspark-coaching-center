@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Brightspark Coaching Center</title>
+    <style>
+      body {
+        background-color: lightyellow;
+        font-family: Arial;
+      }
+      h1 {
+        color: blue;
+        text-align: center;
+      }
+      p {
+        color: green;
+        font-size: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to Brightspark Coaching</h1>
+    <p>This is your first website</p>
+  </body>
+</html>
